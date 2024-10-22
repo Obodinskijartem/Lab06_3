@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab_5
+namespace Lab06_3   
 {
     public partial class fMain : Form
     {

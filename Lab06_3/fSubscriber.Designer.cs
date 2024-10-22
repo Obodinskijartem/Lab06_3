@@ -1,4 +1,4 @@
-﻿namespace Lab_5
+﻿namespace Lab06_3   
 {
     partial class fSubscriber
     {
